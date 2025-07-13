@@ -6,7 +6,7 @@ interface books {
   author: string;
   genre: string;
   rating: string;
-  total: string;
+  total_copies: string;
   copies: string;
   available_copies: string;
   description: String;
